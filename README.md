@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **BACK-END : JAVA, PYTHON, MYSQL, SPRNG BOOT, SPRING FRAMEWORK**
+- 🔭 I’m currently working on **BACK-END : JAVA, PYTHON, SQL, SPRNG BOOT, SPRING FRAMEWORK**
 
 - 🌱 I’m currently learning **FRONT-END : HTML, CSS, JAVASCRIPT**
 
